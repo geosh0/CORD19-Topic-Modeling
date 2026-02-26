@@ -66,8 +66,6 @@ This project implements a modular data science pipeline, moving beyond "spaghett
 
 This project analyzes the **CORD-19 Open Research Dataset**, curated by the Allen Institute for AI and partners.
 
-If you utilize this repository or the dataset, please cite the original paper:
-
 > Wang, L. L., Lo, K., et al. (2020). **CORD-19: The COVID-19 Open Research Dataset.** *Proceedings of the 1st Workshop on NLP for COVID-19 at ACL 2020.*
 
 **BibTeX:**
