@@ -59,7 +59,6 @@ This project implements a modular data science pipeline, moving beyond "spaghett
 ├── cord19_bertopic.py        # Semantic model training (SPECTER)
 ├── cord19_bertopic_eval.py   # Coherence evaluation for BERTopic
 ├── notebook_main.ipynb       # The main execution notebook (Report)
-├── requirements.txt          # Dependencies
 └── README.md                 # Project documentation
 ```
 
